@@ -1,0 +1,6 @@
+@CRUP.MinimalAPI_HostAddress = http://localhost:5070
+
+GET {{CRUP.MinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
